@@ -1,1 +1,2 @@
-ooooo
+<?php
+echo "123";
